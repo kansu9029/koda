@@ -429,7 +429,7 @@ div#left-3 {
     left: 50; /* 基準の位置を画面の一番左に指定する */
     margin: 0; /* 要素の余白を０にする */
     padding: 10px; /* 要素内側の余白を指定する */
-    height:135px; /* 高さを指定する */
+    height:120px; /* 高さを指定する */
     width: 77%; /* 幅を指定する */
     background: #f3ffff; /* 背景色を指定する */
     color:black; /* フォントの色を指定する */
@@ -443,7 +443,7 @@ div#center-3 {
     left: 50; /* 基準の位置を画面の一番左に指定する */
     margin: 0; /* 要素の余白を０にする */
     padding: 10px; /* 要素内側の余白を指定する */
-    height:155px; /* 高さを指定する */
+    height:200px; /* 高さを指定する */
     width: 77%; /* 幅を指定する */
     background: #f3ffff; /* 背景色を指定する */
     color:black; /* フォントの色を指定する */
@@ -453,11 +453,11 @@ div#center-3 {
     border : double 4px #333 ;
 }
 div#right-3 {
-    top: 430; /* 基準の位置を画面の一番上に指定する */
+    top: 490; /* 基準の位置を画面の一番上に指定する */
     left: 50; /* 基準の位置を画面の一番左に指定する */
     margin: 0; /* 要素の余白を０にする */
     padding: 10px; /* 要素内側の余白を指定する */
-    height:75px; /* 高さを指定する */
+    height:80px; /* 高さを指定する */
     width: 77%; /* 幅を指定する */
     background: #f3ffff; /* 背景色を指定する */
     color:black; /* フォントの色を指定する */
